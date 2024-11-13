@@ -14,8 +14,7 @@
 ---
 
 ## 📝 Descrição
-Este repositório contém a resolução da lista de exercícios 02 proposta na disciplina de Programação Orientada a Objetos. Cada exercício foi abordado de forma a facilitar o entendimento dos conceitos fundamentais da matéria.
-
+Este repositório apresenta a resolução completa da lista de exercícios 02, abrangendo todas as questões dos capítulos 04 e 05 da disciplina de Programação Orientada a Objetos. As questões foram selecionadas do livro didático *Fundamentos da Programação Orientada a Objetos*, de autoria de *Ana Fernanda Gomes Ascencio* e *Ediline Aparecida Veneruchi de Campos*. Cada exercício foi resolvido com enfoque no esclarecimento dos conceitos fundamentais, visando facilitar o aprendizado e a compreensão dos principais tópicos abordados na disciplina.
 ---
 
 ## ⚙️ Linguagens & Ferramentas Utilizadas
